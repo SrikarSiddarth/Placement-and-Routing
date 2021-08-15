@@ -3,7 +3,7 @@ usage :
 ```sh
 python placement.py -c c27.txt -n s27.txt
 ```
-Details of the Config file:
+Details of the Config (c27.txt) file:
 ```
 all the details about the blocks will be mentioned in the config file
 gate name, no. of inputs, no. of outputs, dimensions, pin locations
