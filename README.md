@@ -21,6 +21,5 @@ say the not gate is of 4 x 4 size, then its pin locations can be given by
 syntax 
 <gate> <name> <number_of_inputs> <number_of_outputs> <x_dim> <y_dim> <pin_locations_separated_by_,> <pin_location_vdd> <pin_location_ground>
 ```
-\
-![alt-text](https://github.com/SrikarSiddarth/Placement-and-Routing/blob/main/grid_14.png)
+![alt-text](https://github.com/SrikarSiddarth/Placement-and-Routing/blob/main/grid_14.png)\
 How it looks after placement and some routing.
