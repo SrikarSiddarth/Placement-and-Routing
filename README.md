@@ -24,5 +24,5 @@ syntax
 ## Placement of ISCAS s298 netlist
 ![alt-text](https://github.com/SrikarSiddarth/Placement-and-Routing/blob/main/Placement_best_298.png)\
 ## Routing of ISCAS s27 netlist
-![alt-text](https://github.com/SrikarSiddarth/Placement-and-Routing/blob/main/grid_14.png)\
+![alt-text](https://github.com/SrikarSiddarth/Placement-and-Routing/blob/main/routing2.png)\
 
